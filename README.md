@@ -1,5 +1,8 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+# Palindrome Application (FullStack Web Application)
 
+![palindrome](https://user-images.githubusercontent.com/101942628/168597883-8150848d-03db-4378-9e29-9cfc30983351.PNG)
+
+## ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 
 ### How to submit your code for review:
@@ -13,7 +16,6 @@
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
-
 Example:
 ```
 I completed the challenge: 5
